@@ -1,3 +1,4 @@
+import "font-awesome/css/font-awesome.min.css";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Services from "./components/Services";
