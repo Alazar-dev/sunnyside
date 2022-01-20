@@ -1,6 +1,6 @@
 export default function Navbar() {
   return (
-    <div className="flex justify-between bg-sky-400 p-10 overflow-scroll">
+    <div className="flex justify-between bg-sky-400 p-10">
       <h1 className="font-bold text-white text-3xl  ">sunnyside</h1>
       <ul className="flex flex-row">
         <li className="px-5 text-white">About</li>

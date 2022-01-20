@@ -4,7 +4,7 @@ import image_thomas from "../assets/images/image-thomas.jpg";
 
 export default function Testimonial() {
   return (
-    <div className="overflow-scroll">
+    <>
       <h1 className="text-center text-2xl text-center font-bold text-gray-500 uppercase py-10">
         client testimonials
       </h1>
@@ -41,6 +41,6 @@ export default function Testimonial() {
           <p className="capitalize text-gray-400 text-center">business owner</p>
         </div>
       </div>
-    </div>
+    </>
   );
 }
